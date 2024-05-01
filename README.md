@@ -1,1 +1,1 @@
-# RAG-using-LLama2-and-ChtomaDB
+# RAG-using-LLama2-and-ChromaDB
